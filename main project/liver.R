@@ -1,0 +1,1 @@
+liver_data<- read.csv("file:///C:\Users\admin\Downloads\Indian-liver-patients.csv")
